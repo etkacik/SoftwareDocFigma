@@ -1,0 +1,41 @@
+# FIGMA MARKDOWN:
+
+- introduction
+    - figma's features              (reference)
+    - FOR UX                        (concept)
+    - FOR WEB DESIGN                (concept)
+    - FOR WIREFRAMING               (concept)
+- figma basics                 
+    - list of all tasks + linking   (reference)
+- Using text tool and fonts         
+    - create a text box             (task)
+    - position text                 (task)
+- Creating effects                  
+    - shadow                        (task)
+    - background blur               (task)
+- Making layout grids              
+    - add a grid                    (task)
+- Using guides                      
+    - create a guide                (task)
+- Making gradients                  
+    - create a gradient             (task)
+    - create a darker gradient      (task)
+    - add a color                   (task)
+- Creating rounded corners          
+    - create corners                (task)
+    - create asymmetrical corners   (task)
+- Setting masks                     
+    - create a mask                 (task)
+- Using the color picker           
+    - pick a color                  (task)
+    - team/personal/document color  (concept)
+- boolean operations                (concept)
+    - use boolean operations        (task)
+- Exporting                     
+    - export                        (task)
+- constraints              
+    - apply constraint              (task)
+- Prototyping
+    - prototype                     (task)
+- transitions         
+    - set transition                (task)
